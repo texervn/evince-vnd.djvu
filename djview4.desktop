@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Categories=Qt;Graphics;Viewer;
+MimeType=image/x-djvu;image/x.djvu;image/vnd.djvu;
+Name=DjView4
+Exec=djview4 %f
+Terminal=false
+Icon=djview4
+StartupWMClass=Djview4
+GenericName=DjVu Viewer
+Comment=Viewer for DjVu documents
+Name[en_US]=djview4
+;OnlyShowIn=<environment>;
+NotShowIn=GNOME;Unity;Pantheon;
